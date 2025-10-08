@@ -1,6 +1,6 @@
-# P⁴
+# P⁴⁷
 
-**Portable Pixel Processing Patch**: Probably Premature, Partially Pointless, Persistently Perplexing Perplexer
+**Portable Pixel Processing Patch**: **P**robably **P**remature, **P**artially **P**ointless, **P**ersistently **P**erplexing **P**erplexer
 
 A window, native born. Ay, truly native - not veiled in toolkits nor wrapped in widgets. NSWindow whispers on macOS, HWND groans on Windows, and X11 mutters on old stone Linux. These are no illusions. The code speaks their names - aloud, unashamed.
 
